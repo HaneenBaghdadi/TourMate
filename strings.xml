@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Application -->
+    <string name="app_name">TourMate</string>
+
+    <!-- Home Screen -->
+    <string name="app_title">TOURMATE</string>
+
+    <string name="explore_world">Explore the World 🌍</string>
+
+    <string name="home_description">Discover beautiful places, create memories and enjoy your journey.</string>
+
+    <string name="search_destination">🔍  Search destination</string>
+
+    <string name="explore_destinations">Explore Destinations ✈</string>
+
+    <!-- Categories -->
+    <string name="cities">Cities</string>
+
+    <string name="beaches">Beaches</string>
+
+    <string name="mountains">Mountains</string>
+
+    <!-- Why TourMate -->
+    <string name="why_tourmate">Why TourMate?</string>
+
+    <string name="why_tourmate_description">✓ Discover popular destinations\n✓ Save your favourite places\n✓ Get useful travel information\n✓ Explore places with ease</string>
+
+    <!-- About -->
+    <string name="about_tourmate">About TourMate</string>
+
+</resources>
